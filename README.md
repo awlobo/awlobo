@@ -1,6 +1,6 @@
 ### Hi I'm Andrea! 👋
 
-<img align="right" width="35%" src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/source.gif"/>
+<img align="right" width="35%" src="https://media.giphy.com/media/AiPHa8Drgklos/giphy.gif"/>
 
 ```kotlin
 fun Main() {
