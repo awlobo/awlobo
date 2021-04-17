@@ -7,16 +7,21 @@ fun Main() {
     val username = "awlobo"
     val name = "Andrea Lobo"
     val location = "Madrid, Spain"
-    val code = arrayOf("java", "python", "kotlin"),
+    val code = arrayOf("c++", "python", "kotlin"),
     val technologies = mutableMapOf(
         "mobileApp" to arrayOf("Android", "Flutter"),
-        "OS" to arrayOf("Windows", "Windows Server", "Arch Linux"),
+        "OS" to arrayOf("Windows Server", "Arch Linux", "Ubuntu", "MacOS),
         "databases" to arrayOf("MySql", "Oracle Database", "sqlite"),
-        "misc" to arrayOf("Firebase", "Selenium", "Rx-java", "git")
+        "misc" to arrayOf("Firebase", "Selenium", "Rx", "git")
     )
-    val funFact = "Graphic design is my passion ;)"
+    val funFact = Power is Pizza"
 }
 ```
+![awlobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=awlobo&theme=ayu-mirage&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&disable_animations=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awlobo&layout=compact&theme=ayu-mirage&hide_border=true&hide=Java)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **awlobo/awlobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
