@@ -1,7 +1,10 @@
 ### Hi I'm Andrea! 👋
 
+:office: Currently working on [Pix4Dscan](https://www.pix4d.com/product/pix4dscan-drone-flight-inspection-software) @ [Pix4D](https://www.pix4d.com/)
+
 <img align="right" width="35%" src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/source.gif"/>
 
+:metal: About me:
 ```kotlin
 fun Main() {
     val username = "awlobo"
