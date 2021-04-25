@@ -1,8 +1,7 @@
-### Hi I'm Andrea! 👋
+### Hi I'm Andrea! 👋 :metal: About me:
 
 <img align="right" width="35%" src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/source.gif"/>
 
-:metal: About me:
 ```kotlin
 fun Main() {
     val username = "awlobo"
