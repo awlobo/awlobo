@@ -1,7 +1,5 @@
 ### Hi I'm Andrea! 👋
 
-:office: Currently working on [Pix4Dscan](https://www.pix4d.com/product/pix4dscan-drone-flight-inspection-software) @ [Pix4D](https://www.pix4d.com/)
-
 <img align="right" width="35%" src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/source.gif"/>
 
 :metal: About me:
@@ -23,7 +21,7 @@ fun Main() {
 ![awlobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=awlobo&theme=ayu-mirage&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&disable_animations=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awlobo&layout=compact&theme=ayu-mirage&hide_border=true&hide=Java)](https://github.com/anuraghazra/github-readme-stats)
 
-
+:office: Currently working on [Pix4Dscan](https://www.pix4d.com/product/pix4dscan-drone-flight-inspection-software) @ [Pix4D](https://www.pix4d.com/)
 
 
 <!--
