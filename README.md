@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://awlobo.github.io/">Andrea</a>!</h1> <!-- Link to  https://awlobo.github.io/ -->
-<h3 align="center">A passionate software developer from Madrid, Spain</h3>
-<p align="center">🏢 Currently working on <a href="https://www.pix4d.com/product/pix4dscan-drone-flight-inspection-software">PIX4Dscan</a> @ <a href="https://www.pix4d.com/">PIX4D</a>
+<h3 align="center">A passionate developer from Madrid, Spain</h3>
 </p>
 
 <img align="right" width="35%" src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/source.gif"/>
