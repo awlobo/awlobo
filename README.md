@@ -2,39 +2,33 @@
 <h3 align="center">A passionate developer from Madrid, Spain</h3>
 </p>
 
-<img align="right" width="35%" src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/source.gif"/>
+<img align="right" height="210px" src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/source.gif"/>
 
-```python
-​
-from __future__ import annotations
+```ts
 
-import json
-from dataclasses import asdict, dataclass
+const andrea = {
+  pronouns: "she" | "her",
+  code: [ Javascript, Typescript, Python, C++ ],
+  web: [ HTML, CSS, Angular, React ],
+  mobile: [ Flutter, Android ],
+  tools: [Docker, RxJS, Node, Jest],
+  databases: [ SQLite, PostgreSQL, MySQL],
+  quote: "We only know what we created"
+}​
 
-
-@dataclass
-class Skillset:
-    languages: tuple[str, ...] = ("C++", "Python", "Kotlin")
-    mobile: tuple[str, ...] = ("Android", "Flutter")
-    databases: tuple[str, ...] = ("SQLite", "PostgreSQL", "MySQL")
-    misc     : tuple[str, ...] = ("Docker", "Firebase", "Selenium", "Rx")
-    os: tuple[str, ...] = ("Windows Server", "Arch Linux", "Ubuntu", "MacOS")
-    ongoing  : tuple[str, ...] = ("Django", "DRF", "Asyncio")
-
-    def jsonify(self) -> str:
-        return json.dumps(asdict(self), indent=4)
-
-
-skillset = Skillset()
-print(skillset.jsonify())
-print("Power is pizza")
-​
 ```
 
 <p align="center" ><img src="https://raw.githubusercontent.com/awlobo/awlobo/master/github-contribution-grid-snake.svg" alt="awlobo" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awlobo&show_icons=true&locale=en&layout=compact" alt="awlobo" /></p>
 <p align="center"><img src="https://lastfm-recently-played.vercel.app/api?user=pand0ra93&count=1"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/awlobo/count.svg"></p>
+
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
+
 
 <!--
 **awlobo/awlobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
